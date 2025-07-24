@@ -18,28 +18,28 @@
 
 - Accommodate diverse user requirements for effective task management
 
-1. Set up the project directory:
+# Set up the project directory:
 
 - Create a new directory for the project, e.g., "task_manager", to organize files.
   
-2. Initialize a Python script:
+# Initialize a Python script:
    
 - Create a new Python file, e.g., "task_manager.py", for writing code.
 
-3. Import necessary modules:
+# Import necessary modules:
 
 - Import required modules like "os" for file handling.
   The os module in Python provides functions for interacting with the operating system, including file and directory manipulation, process management, and environment variables access.
 
-4. Define the TaskManager class:
+# Define the TaskManager class:
 
 - Create a class to manage tasks, with attributes like directory and tasks.
 
-5. Define methods for task management:
+# Define methods for task management:
 
 - Inside the TaskManager class, define methods to add, edit, omit, save, and load tasks.
 
-6. Implement the methods:
+# Implement the methods:
    
 - Fill in the method bodies with the appropriate code to perform each task management operation. For example, adding a task would involve updating the tasks dictionary with the new task information.
 
